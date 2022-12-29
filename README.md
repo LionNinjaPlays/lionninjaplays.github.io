@@ -1,4 +1,4 @@
-# lionninjaplays.github.io
+# lion's website
 A website about me and my stuff.
 
 # Malware
