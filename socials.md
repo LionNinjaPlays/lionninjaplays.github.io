@@ -1,6 +1,6 @@
-# Socials
+# Gaming
 
-YouTube: https://youtube.com/@fxdedlion
+[Youtube:](https://youtube.com/@lionmc1) https://youtube.com/@lionmc1
 
 Discord: lionmc#0001
 
