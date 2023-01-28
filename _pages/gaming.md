@@ -1,3 +1,10 @@
+---
+title: Gaming
+author: lion
+date: 2023-01-27
+category: Jekyll
+layout: post
+---
 # Gaming
 
 [Youtube:](https://youtube.com/@lionmc1) https://youtube.com/@lionmc1
