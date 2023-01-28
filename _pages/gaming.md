@@ -4,6 +4,7 @@ author: lion
 date: 2023-01-27
 category: Jekyll
 layout: post
+permalink: /gaming
 ---
 # Gaming
 
