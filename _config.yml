@@ -1,4 +1,4 @@
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: jeromelachaud/grayscale-theme
 plugins:
 title: lion's website
 description: A website about me and my stuff.
