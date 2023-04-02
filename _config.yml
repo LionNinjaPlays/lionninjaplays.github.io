@@ -7,4 +7,6 @@ color:
   primary-dark: '#000000'
   links: '#219ab3'
 
-footer: lion's website © lion 2023
+footer: lion's website
+
+markdown: kramdown
