@@ -2,11 +2,3 @@ remote_theme: jeromelachaud/grayscale-theme
 plugins:
 title: lion's website
 description: A website about me and my stuff.
-
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
-
-footer: lion's website
-
-markdown: kramdown
