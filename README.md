@@ -7,4 +7,4 @@ You can find the link to my official Malware repository and the license for malw
 
 # Gaming
 [Gaming](https://lionninjaplays.github.io/gaming)  
-You can find my Gaming info here
+You can find my Gaming info here.
