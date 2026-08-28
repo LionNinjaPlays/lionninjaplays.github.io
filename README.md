@@ -8,3 +8,9 @@ You can find the link to my official Malware repository and the license for malw
 # Gaming
 [Gaming](https://lionninjaplays.github.io/gaming)  
 You can find my Gaming info here.
+
+
+
+
+
+[cipher](https://lionninjaplays.github.io/cipher/cipher.html)
